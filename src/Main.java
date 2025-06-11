@@ -8,7 +8,7 @@ public class Main {
         Double doubleFallCost = 300.45;
         Double doubleWinterCost = 555.00;
         double doubleTotal = doubleSpringCost + doubleSummerCost + doubleFallCost + doubleWinterCost;
-        System.out.println("The yearly maintenance cost is : " + doubleTotal);
+        System.out.println("The yearly maintenance cost is :$" + doubleTotal);
 
 
 
